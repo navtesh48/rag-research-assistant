@@ -1,0 +1,4 @@
+[
+  {"q": "REPLACE: a question your PDFs answer", "answerable": true, "gold": {"file": "your_paper.pdf", "page": 1}},
+  {"q": "Who won the 2018 World Cup?", "answerable": false}
+]
